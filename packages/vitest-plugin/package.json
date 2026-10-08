@@ -70,7 +70,7 @@
 		"@vitest/snapshot": "catalog:default",
 		"birpc": "0.2.14",
 		"capnp-es": "catalog:default",
-		"devalue": "^5.6.3",
+		"devalue": "^5.9.3",
 		"get-port": "^7.1.0",
 		"semver": "^7.7.1",
 		"tree-kill": "catalog:default",
